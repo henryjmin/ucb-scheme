@@ -1,2 +1,2 @@
 # UCB Scheme
-https://inst.eecs.berkeley.edu/~scheme/
+https://people.eecs.berkeley.edu/~bh/61a-pages/Scheme/
